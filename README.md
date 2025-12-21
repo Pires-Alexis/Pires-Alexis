@@ -8,6 +8,7 @@
 <img src ="https://img.shields.io/badge/LinkedIn-Pires_Alexis-blue?logo=linkedin&style=for-the-badge" alt="Linkedin"></a>
 </div>
 I am a student in computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">in EPSI at Toulouse.
+
 ---
 ## About me :
 
