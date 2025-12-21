@@ -2,11 +2,11 @@
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRxa3Y3dHVpdnY4dGg3bG9nMmNtZzUwOHFyMWx3bWZkMzVvN2NvMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/> 
 </div>
+<h1 align="center">
+ Hi there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1sMDB4NWd5cmJkajZjY29xMXFqMmI3eHg3cDYwYWlwdW1tejU5YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/j5hWF2V3RlNGItTkGc/giphy.gif" width="60px" alt="Hello World"></h1>
 <div id="badges"><a href="https://www.linkedin.com/in/alexis-pires-64b924387/">
 <img src ="https://img.shields.io/badge/LinkedIn-Pires_Alexis-blue?logo=linkedin&style=for-the-badge" alt="Linkedin"></a>
 </div>
-<h1 align="center">
- Hi there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1sMDB4NWd5cmJkajZjY29xMXFqMmI3eHg3cDYwYWlwdW1tejU5YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/j5hWF2V3RlNGItTkGc/giphy.gif" width="60px" alt="Hello World"></h1>
 I am a student in computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in EPSI at Toulouse.
 ---
 ## About me :
@@ -36,7 +36,7 @@ I am a student in computer science <img src="https://media.giphy.com/media/WUlpl
   ---
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pires-Alexis&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pires-Alexis&layout=compact&theme=vision-friendly-dark)]
+![GitHub Streak](https://streak-stats.demolab.com?user=Pires-Alexis&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pires-Alexis&layout=compact&theme=vision-friendly-dark)
 ![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pires-Alexis&show_icons=true&theme=radical)
 
