@@ -44,6 +44,5 @@ I am a computer science student <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats :
-![GitHub Streak](https://streak-stats.demolab.com?user=Pires-Alexis&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pires-Alexis&layout=compact&theme=vision-friendly-dark)
 ![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pires-Alexis&show_icons=true&theme=radical)
