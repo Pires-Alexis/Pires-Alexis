@@ -1,16 +1,42 @@
-## Hi there 👋
+<div id="header" align="center">
 
-<!--
-**Pires-Alexis/Pires-Alexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRxa3Y3dHVpdnY4dGg3bG9nMmNtZzUwOHFyMWx3bWZkMzVvN2NvMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/> 
+</div>
+<div id="badges"><a href="https://www.linkedin.com/in/alexis-pires-64b924387/">
+<img src ="https://img.shields.io/badge/LinkedIn-Pires_Alexis-blue?logo=linkedin&style=for-the-badge" alt="Linkedin"></a>
+</div>
+<h1 align="center">
+ Hi there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1sMDB4NWd5cmJkajZjY29xMXFqMmI3eHg3cDYwYWlwdW1tejU5YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/j5hWF2V3RlNGItTkGc/giphy.gif" width="60px" alt="Hello World"></h1>
+I am a student in computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in EPSI at Toulouse.
+---
+## About me :
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on small projects for my studies.
+- 🌱 I’m currently learning different technologies related to software development.
+- 👯 I’m looking to collaborate on beginner-friendly projects to improve my skills with what I learned.
+- 🤔 I’m looking for advice and feedback as a junior developer.
+- :telescope: In my freetime, I'm learning about new technologies and how they contribute to the world.
+- 💬 Ask me about basic programming, student projects, or my learning journey.
+- 📫 How to reach me: via GitHub or <a href="https://www.linkedin.com/in/alexis-pires-64b924387/"><img src="https://img.shields.io/badge/Linkedin-Pires_Alexis-blue?logo=linkedin" alt="LinkedIn"></a>.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I learn best by experimenting and breaking things.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40">
+  </div>
+
+  ---
+
+### :fire: My Stats :
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pires-Alexis&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pires-Alexis&layout=compact&theme=vision-friendly-dark)]
+![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pires-Alexis&show_icons=true&theme=radical)
+
